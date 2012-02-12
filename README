@@ -1,0 +1,15 @@
+Skeleton of an about-me page.
+You'll have to put your own data into the appropriate html tags and rename the template-index.html file to index.html. 
+
+See http://daniele.gobbetti.name for a working example.
+
+Key advantages over other solutions:
+- plain html (no special server support required)
+- no javascript!
+- valid hcard markup (see http://microformats.org/wiki/hcard )
+- valid markup for google authorship verification (just add the appropriate rel="me" links)
+- valid HTML5 (except opengraph tags in the HEAD section)
+- open license: Creative Commons BY SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0/)
+- main page with space for a few profile and an additional page for all the rest (visible to search engines, invisible to users)
+- looks good (at least I like it)
+- probably something else
